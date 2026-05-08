@@ -31,14 +31,11 @@ Yunzai-Bot 群活跃插件，为你的群聊增添互动乐趣。
 ## 安装
 
 ```bash
-# 进入 Yunzai-Bot 插件目录
-cd Yunzai-Bot/plugins/
-
-# 克隆本仓库
-git clone https://github.com/ethan42nd/groupvibe-plugin.git
+# 在 Bot 根目录下执行（请确保当前目录是 Yunzai-Bot 的根目录）
+git clone https://github.com/ethan42nd/groupvibe-plugin.git plugins/groupvibe-plugin
 
 # 安装依赖
-cd groupvibe-plugin
+cd plugins/groupvibe-plugin
 pnpm install
 ```
 
