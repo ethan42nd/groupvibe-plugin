@@ -1,0 +1,16 @@
+{
+  "name": "groupvibe-plugin",
+  "version": "1.0.0",
+  "description": "Yunzai-Bot 群活跃插件 - 戳一戳、表情回应、群自动表情包",
+  "main": "index.js",
+  "type": "module",
+  "module": "index.js",
+  "keywords": [
+    "Yunzai-Bot",
+    "云崽",
+    "群聊活跃",
+    "暖群"
+  ],
+  "author": "",
+  "license": "ISC"
+}
